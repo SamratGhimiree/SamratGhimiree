@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamratGhimiree
-- 👀 I’m interested in HTML,CSS,JavaScript,php,MySQL
+- 👀 I’m interested in HTML,CSS,JavaScript,php,MySQL,Kotlin,Firebase
 - 🌱 I’m currently learning Kotlin, Firebase
 - 💞️ I’m looking to collaborate on projects related to my interest
 - 📫 How to reach me Instagram:samrat__ghimire__
